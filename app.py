@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("Usar Pygwalker en Streamlit")
+st.title("EDA en streamlit")
 
 df = pd.read_csv("src/bike_sharing_dc.csv")
  
