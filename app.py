@@ -22,7 +22,7 @@ else:
 
 
 if 'df' in locals():
-    with st.spinner("Realizando análisis exploratorio de datos..."):
+    with st.spinner("Abriendo pygwalker..."):
         try:
             pyg_html = pyg.walk(df, return_html=True)
             components.html(pyg_html, height=1000, scrolling=True)
