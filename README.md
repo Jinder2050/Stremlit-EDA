@@ -1,6 +1,5 @@
 # EDA en streamlit
 **Autor : Jinder2050**
 
-![Demo][scree]
+![Demo](src/scrennshot.png)
 
-[scree]: src\scrennshot.png
